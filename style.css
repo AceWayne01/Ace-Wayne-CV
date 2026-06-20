@@ -181,6 +181,10 @@ section{
     transition: 0.3s;
 }
 
+.qualifications-card b{
+color: blue;
+}
+
 .qualifications-card:hover{
     transform: translateY(-5px);
 }
