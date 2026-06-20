@@ -181,7 +181,7 @@ section{
     transition: 0.3s;
 }
 
-.qualifications-card b{
+.qualifications-card b, .card b{
 color: #5F9EA0;
 }
 
