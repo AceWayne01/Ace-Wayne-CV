@@ -181,7 +181,7 @@ section{
     transition: 0.3s;
 }
 
-.qualifications-card b, .card b{
+.qualifications-card b{
 color: #5F9EA0;
 }
 
@@ -214,6 +214,10 @@ color: #5F9EA0;
     border: 1px solid #ccc;
     color: white;
     background: #2563eb;
+}
+
+.card b{
+color: #5F9EA0;
 }
 
 .card a:hover{
